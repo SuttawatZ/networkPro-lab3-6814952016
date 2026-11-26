@@ -1,9 +1,9 @@
 # รายงานแบบฝึกหัด Socket API & Docker (Assignment 1 & 2)
 
 **ข้อมูลผู้จัดทำ**
-* ชื่อ-นามสกุล: นายทัศไนย พันธุมาศ
-* รหัสนักศึกษา: 6814952004
-* กลุ่ม/เซคชั่น: 1
+* ชื่อ-นามสกุล: นายสุทธวัฒน์ ยะสุนทร
+* รหัสนักศึกษา: 6814952016
+* กลุ่ม/เซคชั่น: 2
 
 ---
 
@@ -36,9 +36,9 @@ docker exec -it chat_client2 python client.py
    ```
 
 exercise-1
-<img width="1920" height="1080" alt="Screenshot 2026-11-26 095420" src="https://github.com/user-attachments/assets/06131eb1-cb97-47a3-b110-72ee92d4245a" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-26 095442" src="https://github.com/user-attachments/assets/e02cb2b2-1767-439f-a22a-a008393b7d06" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-26 095452" src="https://github.com/user-attachments/assets/23e75495-d2e6-46c5-87cf-67b5f81dc0f0" />
+<img width="1920" height="1080" alt="สกรีนช็อต 2026-11-26 110825" src="https://github.com/user-attachments/assets/6d8d579f-b245-4b93-8169-08e3f11880c3" />
+<img width="1920" height="1080" alt="สกรีนช็อต 2026-11-26 110830" src="https://github.com/user-attachments/assets/434cd2e4-9070-418b-be00-bc4d6a3f69c4" />
+<img width="1920" height="1080" alt="สกรีนช็อต 2026-11-26 111047" src="https://github.com/user-attachments/assets/abb9231a-0131-43d0-aeba-e8d4f9119b2d" />
 
 ---
 
@@ -65,6 +65,7 @@ exercise-1
    ```
 
    exercise-2
-   <img width="1920" height="1080" alt="Screenshot 2026-11-26 103322" src="https://github.com/user-attachments/assets/68511e90-72be-4c10-9751-33b4c4f8f187" />
-   <img width="1920" height="1080" alt="Screenshot 2026-11-26 100919" src="https://github.com/user-attachments/assets/9183276f-1edb-4363-af6f-b88728ce1191" />
+  <img width="1920" height="1080" alt="สกรีนช็อต 2026-11-26 111705" src="https://github.com/user-attachments/assets/47d7e9b2-db09-45e6-9d03-62700b66a208" />
+  <img width="1920" height="1080" alt="สกรีนช็อต 2026-11-26 111650" src="https://github.com/user-attachments/assets/27e9d2a1-8bfa-43a2-ba6f-321f48f688ac" />
+
    
